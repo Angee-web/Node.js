@@ -15,4 +15,5 @@ In this mini project, I did Node.js and the following packages:
   - Created a file named "password-generator"
   - Created a function that generates random passwords and console.log() that password.
   - Created a file named email-sender
-  - Sent an email using nodemailer (smtp and app generated password)
+  - Sent an email using nodemailer (smtp transport and app generated password)
+  - There is an image in the image folder 
